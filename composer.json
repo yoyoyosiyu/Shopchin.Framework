@@ -1,0 +1,17 @@
+{
+    "name": "shopchin/framework",
+    "description": "A Framework for b2b project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yoyoyosiyu",
+            "email": "yoyoyosiyu@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shopchin\\Framework": "src"
+        }
+    },
+    "require": {}
+}
