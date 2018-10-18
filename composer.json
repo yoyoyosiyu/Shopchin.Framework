@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Shopchin\\Framework": "src"
+            "Shopchin\\Framework\\": "src"
         }
     },
     "require": {}
